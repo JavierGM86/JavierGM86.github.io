@@ -8,7 +8,7 @@ function About() {
                 <img className="imagenCabecera" src={Foto} width="400" />
                 <div className="aboutMe">
                     <h2>Who am I?</h2>
-                    <p>My name is Javier and I'm an english studies graduate as well as
+                    <p>My name is Javier and I'm an English studies graduate as well as
                         a Javascript Fullstack Developer.
                     </p>
                     <h2>What am I currently interested in?</h2>

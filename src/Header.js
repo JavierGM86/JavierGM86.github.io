@@ -23,7 +23,7 @@ function Header() {
             <header>
                 <Navbar collapseOnSelect expand="lg" bg="light" variant="light">
                     <div id="welcomeContainer">
-                        <span>Javier García Martínez - Portfolio</span>
+                        <span><a href="https://www.linkedin.com/in/javier-garcia-martinez-javiscript/" target="_blank">Javier García Martínez</a> - <a href="https://github.com/JavierGM86" target="_blank">Portfolio</a></span>
 
                     </div>
                     <Navbar.Toggle aria-controls="responsive-navbar-nav" />
